@@ -1,0 +1,18 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "f75b1dda7ffba4485e7072376252c362dbca03c7",
+  "iOS" : [
+    {
+      "name" : "Appirater",
+      "hash" : "5ae472f903e86c58482b5c868bf7c2601e9252b20642e1989eb6207f9dc1ba71"
+    }
+  ]
+}
